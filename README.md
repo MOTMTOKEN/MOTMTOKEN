@@ -1,6 +1,6 @@
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 ### Hi there 👋, My name is Amir
-I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Frontend development and Backend development both in mobile and fullstack. I have extensive knowledge in Swift/SwiftUI, Kotlin, HTML, CSS, Javascript, Node.Js, MongoDB, FireBase, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company. Check out my portfolio here; <span> <a href="https://amir-nilsson.vercel.app/" rel="nofollow">VISIT PORTFOLIO!</a></span>
+I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Frontend development and Backend development both in mobile and fullstack. I have extensive knowledge in Swift/SwiftUI, Kotlin, HTML, CSS, Javascript, Node.Js, MongoDB, FireBase, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions. Check out my portfolio here; <span> <a href="https://amir-nilsson.vercel.app/" rel="nofollow">VISIT PORTFOLIO!</a></span>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -55,6 +55,42 @@ I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Fro
 <br/>
 
 ### Projects 
+
+  
+  
+  
+  <article>
+      <div>
+  <div>
+<table>
+  <tbody><tr>
+    <td width="33%" valign="top">
+      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Share food cuisines</h3>
+        <br>
+        <p> <a href="https://github.com/MOTMTOKEN/World-Food" rel="nofollow">Visit Code</a></p>
+        <br>
+        <a  rel="nofollow">
+           <img width="1829" alt="Background (5)" src="https://user-images.githubusercontent.com/71459883/149624502-c0cd6e12-928b-451b-bfb6-84726f0b1ddd.png">
+        </a>
+        <p><strong>Kotlin, Java,  &amp;  FireStore </strong> - Together with 3 other developers we built this amazing food app that helps you save your favorite food spots, filter by Cuisine, comment, rate and search for restaurants.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sneakers MarketPlace</h3>
+        <br>
+        <p> <a href="https://github.com/MOTMTOKEN/Sneakers-MarketPlace" rel="nofollow">Visit Code</a></p>
+        <br>
+        <a  rel="nofollow">
+          <img width="1858" alt="SneakersMarketPlace" src="https://user-images.githubusercontent.com/71459883/154586960-5125181f-fc45-48cd-bc05-3f188c6fa10b.png">
+        </a>
+        <p><strong>SwiftUi, FireBase/FireStore </strong> - Using SwiftUi and FireStore you can sell and buy any shoes you like. The app dynamically shows sellers location and information and you can call them directly within the app. </p>
+    </td>
+  </tr>
+</tbody></table>
+</article>
+      </div>
+  </div>
+
+
 <article>
       <div>
   <div>
@@ -87,38 +123,6 @@ I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Fro
   </div>
   
   
-  
-  <article>
-      <div>
-  <div>
-<table>
-  <tbody><tr>
-    <td width="33%" valign="top">
-      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Share food cuisines</h3>
-        <br>
-        <p> <a href="https://github.com/MOTMTOKEN/World-Food" rel="nofollow">Visit Code</a></p>
-        <br>
-        <a  rel="nofollow">
-           <img width="1829" alt="Background (5)" src="https://user-images.githubusercontent.com/71459883/149624502-c0cd6e12-928b-451b-bfb6-84726f0b1ddd.png">
-        </a>
-        <p><strong>Kotlin, Java,  &amp;  FireStore </strong> - Together with 3 other developers we built this amazing food app that helps you save your favorite food spots, filter by Cuisine, comment, rate and search for restaurants.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Pokemon App</h3>
-        <br>
-        <p> <a href="https://github.com/MOTMTOKEN/PokemonApp" rel="nofollow">Visit Code</a></p>
-        <br>
-        <a  rel="nofollow">
-          <img width="1446" alt="Background (3)" src="https://user-images.githubusercontent.com/71459883/149624729-e13e9e1b-784c-427e-b888-d9575414c4ac.png"> 
-        </a>
-        <p><strong>SwiftUi, Api </strong> - Thanks to this App you cna now read about every pokemon entry and see different type of information about them like type. </p>
-    </td>
-  </tr>
-</tbody></table>
-</article>
-      </div>
-  </div>
-
 ## Connect with me  
 
 <div align="center">
