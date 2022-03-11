@@ -1,6 +1,6 @@
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 ### Hi there 👋, My name is Amir
-I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Frontend development and Backend development both in mobile and fullstack. I am currently a Software Engineering intern as a consultant part of LTI’s frontend development team (set to conclude on june 6).I have extensive knowledge in Swift/SwiftUI, Kotlin, HTML, CSS, Javascript, Node.Js, MongoDB, FireBase, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions. Check out my portfolio here; <span> <a href="https://amir-nilsson.vercel.app/" rel="nofollow">VISIT PORTFOLIO!</a></span>
+I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Frontend development and Backend development both in mobile and fullstack. I am currently a Software Engineering intern as a consultant part of LTI’s frontend development team (set to conclude on june 13).I have extensive knowledge in Swift/SwiftUI, Kotlin, HTML, CSS, Javascript, Node.Js, MongoDB, FireBase, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions. Check out my portfolio here; <span> <a href="https://amir-nilsson.vercel.app/" rel="nofollow">VISIT PORTFOLIO!</a></span>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
