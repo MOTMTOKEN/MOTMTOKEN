@@ -1,4 +1,4 @@
-![](https://rishavanand.github.io/static/images/greetings.gif)
+<!--- ![](https://rishavanand.github.io/static/images/greetings.gif) --->
 ### Hi there 👋, My name is Amir
 I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Frontend development and Backend development both in mobile and fullstack. I am currently a Software Engineering intern as a consultant part of LTI’s frontend development team (set to conclude on june 13).I have extensive knowledge in Swift/SwiftUI, Kotlin, HTML, CSS, Javascript, Node.Js, MongoDB, FireBase, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions. Check out my portfolio here; <span> <a href="https://amir-nilsson.vercel.app/" rel="nofollow">VISIT PORTFOLIO!</a></span>
 
@@ -107,6 +107,20 @@ I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Fro
         <p><strong>React, Styled components, Node.js  &amp;  responsive </strong> - Earthium - A fullstack app that presents crypto and NFT's.</p>
     </td>
     <td width="33%" valign="top">
+      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Metflix</h3>
+        <br>
+        <p> <a href="https://movie-website-dusky.vercel.app/" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="https://amir-nilsson-metflix.netlify.app/" rel="nofollow">
+            <img src="https://media.giphy.com/media/0fcZY9nVA9yYi7hQcQ/giphy.gif" width="100%" alt="Movies" data-canonical-src="https://media.giphy.com/media/PoaxthdLWgOqEZwnYF/giphy-downsized-large.gif" style="max-width:100%;">
+        </a>
+        <p><strong>React.JS, Redux, Node.Js responsive</strong> - A movie website that allows you to search for movies and filter by category thanks to different Api calls. You can also add movies to the cart with redux and then see the movies you bought! </p>
+    </td>
+  </tr>
+  
+  
+  </td>
+    <td width="33%" valign="top">
       <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Movies</h3>
         <br>
         <p> <a href="https://movie-website-dusky.vercel.app/" rel="nofollow">Visit Site</a></p>
@@ -114,9 +128,9 @@ I am a Software Engineer based in Stockholm, Sweden. I am proficient in both Fro
         <a href="https://movie-website-dusky.vercel.app/" rel="nofollow">
             <img src="https://media.giphy.com/media/PoaxthdLWgOqEZwnYF/giphy-downsized-large.gif" width="100%" alt="Movies" data-canonical-src="https://media.giphy.com/media/PoaxthdLWgOqEZwnYF/giphy-downsized-large.gif" style="max-width:100%;">
         </a>
-        <p><strong>REACT, Next.JS, TailWindCSS, responsive</strong> - Looking for movies? This will help you out! Search by genre and more. </p>
+        <p><strong>Next.JS, TailWindCSS, responsive</strong> - Looking for movies? This will help you out! Search by genre and more. </p>
     </td>
-  </tr>
+  
 </tbody></table>
 </article>
       </div>
